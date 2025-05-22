@@ -37,7 +37,7 @@ A simple and responsive movie search application built with React.js that allows
 
 6. Open your browser at:
 
-  http://localhost:3000
+    http://localhost:3000
 
 > ⚠️ Make sure to add your OMDb API key in the appropriate place in the `api.js` file.
 
